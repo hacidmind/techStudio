@@ -1,0 +1,67 @@
+/* HEADER */
+.tsa {
+    font-size: 14px;
+}
+.head {
+    height: 38px;
+}
+
+
+/* MAIN */
+.main {
+    background: url("../img/techStudio-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+/* Block 3 */
+.bk-3 {
+    background-color: #F9FAFA;
+}
+
+.bk-3b {
+    background-color: #ffffff !important;
+}
+.bk-3-img img {
+    max-width: 100%;
+}
+
+.bk-4 {
+    background-color: #F17105;
+}
+
+.bk-4b {
+  width: 50%;
+  margin: auto;  
+}
+
+.bk4-img {
+    text-align: center;
+}
+
+/* BLOCK 5 */
+.bk-5 {
+    background-color: #F9FAFA;
+}
+.bk-5a {
+    position: relative;
+}
+
+.bk-5b {
+    max-width: 40%;
+    max-height: 100px;
+    position: absolute;
+    top: 25%;
+    right: 1px;
+    background-color: #ffffff;
+}
+.bk-5b h2 {
+    font-size: 14px;
+}
+/* BLOCK 6 */
+.bk-6b {
+    margin: auto;
+}
+/* BLOCK 7 */
+.bk-7 {
+    background-color: #F9FAFA;
+}
